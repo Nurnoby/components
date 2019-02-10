@@ -1,0 +1,9 @@
+.heading{
+	font-size: 35px;    
+    text-transform: capitalize;
+    color: black;
+}
+.text{
+	font-size:16px;
+	color:#208000;
+}
